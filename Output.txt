@@ -1,0 +1,8 @@
+Name:nisar
+Age:65
+Designation:Internee
+Salary:16000.0
+Name:ali
+Age:31
+Designation:Software Engineer
+Salary:26000.0
